@@ -22,11 +22,9 @@
 
 💻 I am a passionate **Web Application Pentester** with over **2 years of CTF experience** and deep technical insight into modern web security vulnerabilities.
 
-🛡️ I have completed **100% of PortSwigger Web Security Academy labs**, and continuously challenge myself through **real-world CTFs** and private programs.
-
 ✍️ I regularly publish write-ups and analysis of complex vulnerabilities on [HackMD](https://hackmd.io/@l4mmm), aiming to share knowledge and improve community awareness.
 
-🎓 I hold a recognized **Pentest Certificate**, proving my hands-on skills in attacking and defending real-world systems.
+🎓 I hold a recognized **Pentest Certificate** Cookie Area, proving my hands-on skills in attacking and defending Vietnam systems.
 
 ---
 
